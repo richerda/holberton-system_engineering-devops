@@ -1,0 +1,17 @@
+.\".
+
+.TH man 2 "04 May 2015" "0.32" "holberton man page"
+.SH NAME
+holberton \- become a full-stack software engineer. 
+.SH SYNOPSIS
+holberton [STUDENTNAME]
+.SH DESCRIPTION
+Holberton School is a project-based alternative to college for the next generation of software engineers.
+.SH OPTIONS
+holberton does not take any options. However, you can supply studentname.
+.SH SEE ALSO
+_p_e_e_r_l_e_a_r_n_i_n_g_(_2_)_, _p_r_o_j_e_t_c_b_a_s_e_d_(_2_)_, _f_u_l_l_s_t_a_c_k_(_2_)_, _B_e_t_t_y_(_1_) 
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Julien Barbier, Sylvain Kalache, Sophie Barbier, Guillaume Salva, Kris Bredemeier, Julien Cyr, Alex Gautier and all the Holberton mentors
