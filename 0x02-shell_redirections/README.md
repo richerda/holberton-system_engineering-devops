@@ -1,0 +1,1 @@
+este archivo contiene los comandos de salida y entrada del sistema linux
